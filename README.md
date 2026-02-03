@@ -1,4 +1,10 @@
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=wave&color=black&height=300&section=header&text=say%20chiz!&fontSize=90&fontColor=ffffff&animation=twinkling"/>
+</div> 
+
+ <div align=center>
+ <h1> 🌑 OreoChiz 🧀 </h1>
+</div>
 
 ## 👋 About Me
 
