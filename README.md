@@ -1,9 +1,11 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=wave&color=black&height=300&section=header&text=say%20chiz!&fontSize=90&fontColor=ffffff&animation=twinkling"/>
+![r2d2](https://github.com/user-attachments/assets/819342f3-70f7-4736-ba19-f3815f6b6b14)
 </div> 
 
+
+
  <div align=center>
- <h1> 🌑 OreoChiz 🧀 </h1>
+ <h1> R2DeezNuts</h1>
 </div>
 
 ## 👋 About Me
