@@ -8,16 +8,15 @@
  <h1> R2DeezNuts</h1>
 </div>
 
-## 👋 About Me
+## About me
 
-Hello! I'm **Juan** 😊  
-Robotics student passionate about **Robotics**, **Computer Vision** and **Intelligent Systems**.  
-I love building things that mix **hardware + software** 🤖💻  
-—from robots and PCBs to vision pipelines and reinforcement learning agents.
+I'm Juan, a robotics student who likes working where hardware meets software.
+
+Most of my time goes into robots, computer vision, and intelligent systems. I enjoy the whole process: designing a board, wiring a sensor, testing an idea, then tracking down the bug that appears at the worst possible moment.
 
 ---
 
-## 🌟 Once I've Used
+## Tools I've used
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
@@ -33,7 +32,7 @@ I love building things that mix **hardware + software** 🤖💻
 
 ---
 
-## 📝 Currently Studying
+## What I'm learning now
 
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-red?style=flat)
 ![Robotics](https://img.shields.io/badge/Robotics-orange?style=flat)
@@ -41,30 +40,30 @@ I love building things that mix **hardware + software** 🤖💻
 
 ---
 
-## 🔧 Projects & Work
+## Projects and work
 
-🤖 **Robot Sumo (ESP32)**  
-Mechanical design, electronics & PCB (KiCad), IR/Sharp sensors, power management, ESCs and weight optimization.
+**Robot Sumo (ESP32)**
+I work on the mechanical design, electronics and PCB in KiCad, then tune the sensors, power system and motor control until the robot is ready for the arena.
 
-👁️ **Computer Vision**  
-Video processing with OpenCV: detection, segmentation, tracking, optical flow and performance metrics.
+**Computer vision**
+I use OpenCV for detection, segmentation, tracking and optical flow. The interesting part is making it fast enough to work on real video.
 
-🧠 **Reinforcement Learning**  
-Q-learning, SARSA and eligibility traces in Gym-like environments.
+**Reinforcement learning**
+I experiment with Q-learning, SARSA and eligibility traces in Gym-like environments.
 
-📚 **Academic Projects**  
-Scripts, technical reports, lab practices and experiment automation tools.
+**Academic projects**
+Scripts, lab work, technical reports and small tools that automate experiments.
 
 ---
 
-## ✨ Find me
+## Find me
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/R2DeezNuts)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com)
 
 ---
 
-## 📩 Contact me
+## Contact me
 
 [![Email](https://img.shields.io/badge/Email-blue?style=flat&logo=gmail&logoColor=white)](mailto:juanjosepradoneira@gmail.com)
 
