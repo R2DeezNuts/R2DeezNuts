@@ -35,7 +35,7 @@ Visión artificial con segmentación semántica para conectar la imagen de cáma
 **[Sumo Vision](https://github.com/R2DeezNuts/sumo-vision)**<br>
 Plataforma sumo reutilizada para localizar y retirar obstáculos. Integra ESP32-CAM, OpenCV y comandos UDP. [Demostración](https://r2deeznuts.github.io/img/sumo-vision-preview.mp4).
 
-**Robot sumo Eggbots**<br>
+**[Robot sumo Eggbots](https://github.com/R2DeezNuts/EggBot-Sumo-Battlebot-)**<br>
 Diseño 3D, PCB, integración electrónica y control dentro de un proyecto de competición. [Demostración](https://youtu.be/11dywdyJRuc).
 
 **[Péndulo invertido](https://github.com/R2DeezNuts/Pendulo-Invertido)**<br>
