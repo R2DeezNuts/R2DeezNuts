@@ -1,24 +1,59 @@
-# Juan José Prado Neira
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/819342f3-70f7-4736-ba19-f3815f6b6b14" alt="R2-D2" width="180">
+  <h1>R2DeezNuts</h1>
+</div>
 
-Estudiante de último curso del Grao en Robótica en la Universidade de Santiago de Compostela, Campus Terra (Lugo). Integro visión artificial, control y electrónica en robots físicos dentro de proyectos académicos.
+## Sobre mí
 
-**Prácticas curriculares · 300 horas · Desde el 8 de marzo de 2027 · Movilidad en Galicia**
+Soy Juan José Prado Neira, estudiante de Robótica en la Universidade de Santiago de Compostela. Aquí reúno proyectos donde junto software, electrónica y control sobre robots físicos.
 
-[Portfolio y demostraciones](https://r2deeznuts.github.io/) · [LinkedIn](https://www.linkedin.com/in/juan-jos%C3%A9-prado-neira-820041252/) · [Contacto](mailto:juanjosepradoneira@gmail.com)
+[Portfolio](https://r2deeznuts.github.io/) · [LinkedIn](https://www.linkedin.com/in/juan-jos%C3%A9-prado-neira-820041252/) · [Contacto](mailto:juanjosepradoneira@gmail.com)
+
+---
+
+## Herramientas que he usado
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=flat&logo=Mathworks)
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![ROS](https://img.shields.io/badge/ROS-22314E?style=flat&logo=ros)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=flat&logo=kicad&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-black?style=flat&logo=linux)
+
+---
 
 ## Proyectos
 
-- **[Jetson Racer — percepción y control de vehículo](https://github.com/R2DeezNuts/jetson-racer)**. Implementé segmentación semántica e integré su salida con dirección y aceleración. [Demostración](https://youtu.be/iftXwQ2Pxf0).
-- **[Sumo Vision — retirada autónoma de obstáculos](https://github.com/R2DeezNuts/sumo-vision)**. Reutilicé el robot sumo e integré ESP32-CAM, OpenCV y comandos UDP. El prototipo localizó y retiró obstáculos dentro de un área delimitada. [Demostración](https://r2deeznuts.github.io/img/sumo-vision-preview.mp4).
-- **Robot sumo Eggbots — integración y competición**. Contribuí al diseño 3D, la PCB, la integración electrónica y el control. Nuestro equipo obtuvo el primer puesto en el torneo de robots sumo. [Demostración](https://youtu.be/11dywdyJRuc). Código privado.
-- **[Péndulo invertido — control sobre ESP32](https://github.com/R2DeezNuts/Pendulo-Invertido)**. Implementé PID, filtrado de sensores y telemetría, con una interfaz web para observar el estado y ajustar parámetros.
-- **USV — proyecto personal en planteamiento**. Concepto de vehículo de superficie no tripulado, todavía sin prototipo construido. [Planteamiento](https://r2deeznuts.github.io/usv-proyecto-personal.pdf).
+**[Jetson Racer](https://github.com/R2DeezNuts/jetson-racer)**<br>
+Visión artificial con segmentación semántica para conectar la imagen de cámara con la dirección y aceleración de un vehículo a escala. [Demostración](https://youtu.be/iftXwQ2Pxf0).
 
-## Competencias aplicadas
+**[Sumo Vision](https://github.com/R2DeezNuts/sumo-vision)**<br>
+Plataforma sumo reutilizada para localizar y retirar obstáculos. Integra ESP32-CAM, OpenCV y comandos UDP. [Demostración](https://r2deeznuts.github.io/img/sumo-vision-preview.mp4).
 
-- **Visión artificial:** Python, OpenCV y PyTorch en Jetson Racer y Sumo Vision.
-- **Control y sistemas embebidos:** C++, PID, ESP32 y telemetría en el péndulo y los robots sumo.
-- **Integración electrónica:** diseño 3D y PCB con KiCad en Eggbots.
-- **Formación académica:** ROS, control y sensores. Con ArduPilot he realizado montaje y pruebas básicas con waypoints y geofence en un tanque y un dron.
+**Robot sumo Eggbots**<br>
+Diseño 3D, PCB, integración electrónica y control dentro de un proyecto de competición. [Demostración](https://youtu.be/11dywdyJRuc).
 
-Me interesan las aplicaciones marinas de la robótica. Busco prácticas en las que pueda contribuir a la integración y prueba de sistemas físicos.
+**[Péndulo invertido](https://github.com/R2DeezNuts/Pendulo-Invertido)**<br>
+Control PID sobre ESP32, filtrado de sensores, telemetría e interfaz web para ajustar parámetros.
+
+---
+
+## En qué sigo trabajando
+
+![Robótica móvil](https://img.shields.io/badge/Robótica%20móvil-orange?style=flat)
+![Visión artificial](https://img.shields.io/badge/Visión%20artificial-yellow?style=flat)
+![Control](https://img.shields.io/badge/Control-0066A6?style=flat)
+![Sistemas embebidos](https://img.shields.io/badge/Sistemas%20embebidos-red?style=flat)
+
+---
+
+## Contacto
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/R2DeezNuts)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-jos%C3%A9-prado-neira-820041252/)
+[![Email](https://img.shields.io/badge/Email-blue?style=flat&logo=gmail&logoColor=white)](mailto:juanjosepradoneira@gmail.com)
