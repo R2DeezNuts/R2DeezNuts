@@ -1,6 +1,8 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/819342f3-70f7-4736-ba19-f3815f6b6b14" alt="R2-D2" width="180">
   <h1>R2DeezNuts</h1>
+  <img src="https://img.shields.io/badge/Idioma-Espa%C3%B1ol-2EA44F?style=for-the-badge" alt="Idioma: español">
+  <a href="https://github.com/R2DeezNuts/R2DeezNuts/blob/main/README.en.md"><img src="https://img.shields.io/badge/Read_in-English-0969DA?style=for-the-badge" alt="Read in English"></a>
 </div>
 
 ## Sobre mí
